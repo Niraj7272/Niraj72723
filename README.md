@@ -66,7 +66,7 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nc72723@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/prajwal-chaudharyy-297835196/">
+  <a href="https://www.linkedin.com/in/niraj-chaudhary-a682ab2b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
@@ -75,10 +75,10 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prajwalchyy&show_icons=true&hide=issues&&layout=compact&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalchyy&layout=compact&theme=tokyonight)](https://github.com/Prajwalchyy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj7272&layout=compact&theme=tokyonight)](https://github.com/Niraj7272)
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwalchyy&bg_color=00000000&color=00E8FF&line=00E8FF&point=FFFFFF&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Niraj7272&bg_color=00000000&color=00E8FF&line=00E8FF&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Prajwalchyy&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Niraj7272&style=flat-square)
