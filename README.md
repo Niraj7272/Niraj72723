@@ -73,7 +73,7 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prajwalchyy&show_icons=true&hide=issues&&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niraj7272&show_icons=true&hide=issues&&layout=compact&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj7272&layout=compact&theme=tokyonight)](https://github.com/Niraj7272)
 
