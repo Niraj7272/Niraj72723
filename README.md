@@ -2,7 +2,7 @@
 <p align="center">
   <span style="display: inline-flex; align-items: center; gap: 8px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100000&center=true&vCenter=true&width=100&lines=Hi%2C+I'm" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=true&width=260&lines=Prajwal+Chaudhary!;Full+Stack+Developer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=false&vCenter=true&width=260&lines=Niraj+Chaudhary!;Full+Stack+Developer!" alt="Typing SVG" />
   </span>
 </p>
 
@@ -63,7 +63,7 @@ I'm a Full-Stack Developer who enjoys building clean, functional, and user-focus
 ## 📬 Contact
 
 <div align="start">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prajwalchaudharyy111@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nc72723@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/prajwal-chaudharyy-297835196/">
